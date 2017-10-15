@@ -1,5 +1,5 @@
 package lab_1;
-
+//AAA
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;

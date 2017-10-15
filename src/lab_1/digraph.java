@@ -1,7 +1,7 @@
 package lab_1;
 
 public class digraph {
-	//Graph<int> a = new Graph();
+	
 	// ±ß
 	public class ENode {   
 		int ivex;    // Ö¸Ïò¶¥µã
