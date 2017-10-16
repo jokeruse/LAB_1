@@ -12,7 +12,7 @@ public class generateNewText {
 		
 		new_text += text_word[0];
 		int textlen = text_word.length;
-		
+		//dadsa
 		for(int i = 0; i < textlen - 1; i++){
 			String word1 = text_word[i];
 			String word2 = text_word[i+1];

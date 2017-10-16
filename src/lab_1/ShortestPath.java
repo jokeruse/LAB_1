@@ -4,7 +4,16 @@ import lab_1.digraph;
 import lab_1.digraph.ENode;
 import lab_1.digraph.VNode;
 
+<<<<<<< HEAD
 //AAAASSS
+=======
+<<<<<<< HEAD
+//AAAAAASSSS
+=======
+//AAAA
+
+>>>>>>> C4
+>>>>>>> B1
 import lab_1.GraphViz;
 import lab_1.showDirectedGraph;
 
